@@ -2,7 +2,7 @@
 
 A simple score project deploying a hello world app.
 
-## Deploying
+## Deploying!
 
 [Score](https://score.dev/) is used to deploy the workload to humanitec.
 
